@@ -15,8 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-✨ 
+<div>
 <img src="https://img.shields.io/badge/C-w007396?style=flat-square&logo=appveyor%logo={A8B9CC}&logoColor=red"/>
-<img src="https://img.shields.io/badge/C++-#00599Cstyle=flat&logo=flat&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-#00599C?style=flat&logo=C++&logoColor=white"/>
 
+</div>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=icegosimperson&theme=react&show_icons=true)
