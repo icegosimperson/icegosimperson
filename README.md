@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div>
-<img src="https://img.shields.io/badge/C-w007396?style=flat-square&logo=appveyor%logo={A8B9CC}&logoColor=red"/>
-<img src="https://img.shields.io/badge/C++-#00599C?style=flat-square&logo=appveyor%logo={A8B9CC}&logoColor=white"/>
+<h3 align "center"> My Skill </h3>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=appveyor%logo={A8B9CC}&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=icegosimperson&theme=react&show_icons=true)
