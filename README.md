@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 <img src="https://img.shields.io/badge/C-w007396?style=flat-square&logo=appveyor%logo={A8B9CC}&logoColor=red"/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hooho931@gmail.com&theme=react&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=icegosimperson&theme=react&show_icons=true)
