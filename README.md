@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 
 <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0"/> <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
 
-![Gosimee's GitHub stats](https://github-readme-stats.vercel.app/api?username=icegosimperson&theme=react&show_icons=true)
-
+![Gosime's GitHub stats](https://github-readme-stats.vercel.app/api?username=icegosimperson&theme=holi&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=icegosimperson&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
