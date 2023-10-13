@@ -1,7 +1,8 @@
 ### Hi there👋
 
 🌱 Currently learning Java and focusing on my university studies.  <br/>
-😊 Still have a lot to learn, but I'm passionately working on it every day.[![Solved.ac
+😊 Still have a lot to learn, but I'm passionately working on it every day.<br/>
+[![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=icegosimperson)](https://solved.ac/icegosimperson)✨
 
 
