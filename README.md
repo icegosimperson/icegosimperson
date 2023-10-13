@@ -1,9 +1,5 @@
-### Hi there my story 👋
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=icegosimperson)](https://solved.ac/icegosimperson/)
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=icegosimperson)](https://solved.ac/icegosimperson)
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=icegosimperson)](https://solved.ac/icegosimperson)
+### Hi there👋
+
 <!--
 **icegosimperson/icegosimperson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,7 +13,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+-->  Currently diving deep into Java and focusing on my university studies.
+🌱 Currently learning Java and focusing on my university studies.
+😊 Still have a lot to learn, but I'm passionately working on it every day. [![Solved.ac
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=icegosimperson)](https://solved.ac/icegosimperson)
+<!--
 
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/> <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 
