@@ -1,5 +1,4 @@
-### 
-Slow but steady🐢<br>
+__Slow but steady🐢__<br>
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=icegosimperson)](https://solved.ac/icegosimperson)✨
 
