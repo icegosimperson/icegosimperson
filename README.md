@@ -1,9 +1,5 @@
-### Hi there👋
-
-🌱 Currently learning Java and focusing on my university studies.  <br/>
-😊 Still have a lot to learn, but I'm passionately working on it every day.<br/>
-🐢 Everyone has their own pace.🐇💨<br/>
-💭 We all have our own rhythm.🕰️<br/>
+### 
+Slow but steady🐢 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=icegosimperson)](https://solved.ac/icegosimperson)✨
 
