@@ -1,4 +1,4 @@
-__Slow but steady🐢__<br>
+__Slow and steady wins the race🐢__<br>
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=icegosimperson)](https://solved.ac/icegosimperson)✨
 
