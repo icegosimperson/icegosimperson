@@ -46,8 +46,8 @@ __Slow and steady wins the race🐢__<br>
 **역할**: 백엔드 개발  
 <details>
 <summary><strong> 담당 역할 & 성과 </strong></summary>
-- 사용자 권한에 따라 글쓰기/댓글 기능 분리<br>
-- Spring 기반 로그인·회원가입, 이미지 업로드 (AWS S3) 구현<br>
+- Spring 기반 사용자 권한에 따라 글쓰기/댓글 기능 분리<br>
+- 클라우드 환경 구축(AWS EC2, RDS, S3) 구현<br>
 - 멋쟁이사자처럼 동아리 주최 전국 단위 해커톤 참여<br>
 </details>
 
