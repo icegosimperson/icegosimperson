@@ -9,16 +9,41 @@ __Slow and steady wins the race🐢__<br>
 ---
 
 ## 🛠️ Projects
+### 1. 👝 Fanzip (인플루언서와 팬을 위한 전자지갑 서비스)
+**기간**: 2025.07.09 ~ 2025.08.21
 
-### 1. 📈 IT's Okay To Lose 
+**주최**:  멀티캠퍼스 KB IT's Your Life 6기
+
+**역할**: 백엔드/프론트 개발
+- **🥇종합실무 프로젝트 최우수상 수상** 
+  - [[최우수팀 상장] [KB] ITs Your Life 6기 최우수팀 15반 1팀.pdf](https://github.com/user-attachments/files/21985936/KB.ITs.Your.Life.6.15.1.pdf)
+<details>
+<summary><strong> 담당 역할</strong></summary>
+  
+- **백엔드**
+  
+  - Spring Legacy 초기 세팅, MyBatis·MySQL 구성  
+  - 팬미팅·마켓·멤버십 결제 로직 처리 (Toss Payments API 연동, 예외 처리)  
+  - OpenAI GPT4 프롬프트 기반 인플루언서 분석 리포트 API 구현  
+  - 글로벌 예외 처리(Global Exception Handling) 설계 및 적용  
+  - k6 + Grafana + Prometheus 기반 부하 테스트  
+
+- **프론트**  
+  - Vue3 + Toss Payments 위젯 연동 (결제 페이지)  
+  - AI 리포트 UI 구현  
+</details>
+
+**기술 스택**: Spring Legacy, Vue, MySQL, AWS EC2/S3, CI/CD
+
+### 2. 📈 IT's Okay To Lose 
 **기간** : 2025.05 ~ 진행중
 
-**소속** : KB IT's Your Life 6기 백엔드
+**소속** : 멀티캠퍼스 KB IT's Your Life 6기 백엔드
 
 <details>
 <summary><strong>담당 역할</strong></summary>
 
-- 백엔드 인프라 구현 담당 (Docker, CI/CD)  
+- 백엔드 인프라 구현 담당 (Docker, CI/CD, AWS EC2)  
 - 투자 대시보드 로직 (매입단가, 손익, ROI)
 - 네이버 뉴스API 연결
 
@@ -26,7 +51,7 @@ __Slow and steady wins the race🐢__<br>
 
 ---
 
-### 2. 🔐 Secure OTA: Blockchain 기반 자동차 보안 시스템  
+### 3. 🔐 Secure OTA: Blockchain 기반 자동차 보안 시스템  
 **기간**: 2024.05 ~ 2024.11  
 **소속**: 영남대 네트워크 보안 연구실 (학부연구생)  
 <details>
@@ -40,7 +65,7 @@ __Slow and steady wins the race🐢__<br>
 
 ---
 
-### 3. 🍼 육아 정보 커뮤니티 플랫폼  
+### 4. 🍼 육아 정보 커뮤니티 플랫폼  
 **기간**: 2024.03.25 ~ 2024.08.07  
 **소속**: 멋쟁이사자처럼 12기  
 **역할**: 백엔드 개발  
@@ -55,7 +80,7 @@ __Slow and steady wins the race🐢__<br>
 
 ---
 
-### 4. 🛴 킥보드 사유화 방지 시스템  
+### 5. 🛴 킥보드 사유화 방지 시스템  
 **기간**: 2023.09.04 ~ 2024.03  
 **역할**: 프론트 + DB + 센서 통신  
 <details>
@@ -69,7 +94,7 @@ __Slow and steady wins the race🐢__<br>
 
 ---
 
-### 5. 🗣️ AI 음성인식 키오스크 (공모전 동상 수상 🥉)  
+### 6. 🗣️ AI 음성인식 키오스크 (공모전 동상 수상 🥉)  
 **기간**: 2023.02.06 ~ 2023.12.07  
 **주최**: 한국정보산업연합회 ICT 한이음 공모전  
 **역할**: 총괄 팀장 · 프론트엔드 + 시스템 연동  
@@ -84,7 +109,7 @@ __Slow and steady wins the race🐢__<br>
 
 ---
 
-### 6. 💝 후원 관리 시스템  
+### 7. 💝 후원 관리 시스템  
 **기간**: 2023.09.11 ~ 2023.12.06  
 **과목**: 데이터베이스 팀 프로젝트  
 **역할**: 백엔드 개발  
