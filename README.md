@@ -9,7 +9,40 @@ __Slow and steady wins the race🐢__<br>
 ---
 
 ## 🛠️ Projects
-### 1. 👝 Fanzip (인플루언서와 팬을 위한 전자지갑 서비스)
+
+### 1. 💍 WeddingFit (MZ 세대를 위한 결혼 준비 자금 특화 금융비서)  
+**기간**: 2025.03 ~ 2025.05  
+**주최**: 멀티캠퍼스 KB IT's Your Life 6기  
+**역할**: 백엔드 총괄 팀장  
+
+
+<details>
+<summary><strong>담당 역할 (백엔드 총괄 팀장)</strong></summary>  
+
+> - **프로젝트 세팅 & 아키텍처**  
+>   - Spring 기반 서버 환경 세팅 및 DB 설계/관리  
+>   - 개발 일정 관리 및 역할 분담 총괄  
+>   
+> - **핵심 기능 개발**  
+>   - Codef API 연동 → 커플 공동 계좌 관리 및 자산 통합 기능 구현  
+>   - GPT-4 API 연동 → AI 소비 분석 리포트 및 맞춤 컨설팅 제공  
+>   - 정부 정책·웨딩 가이드 제공 API 설계 및 데이터 처리  
+>   - FCM API 연동 → 자금 목표 리마인더·알림 기능 구현  
+>   
+> - **품질 관리 & 협업**  
+>   - 백엔드 코드 리뷰 및 품질 관리  
+>   - 주요 기능 테스트 및 성능 점검  
+>   - 팀 내 개발 이슈 해결 및 협업 프로세스 개선  
+
+</details>  
+
+
+
+
+
+
+
+### 2. 👝 Fanzip (인플루언서와 팬을 위한 전자지갑 서비스)
 **기간**: 2025.07.09 ~ 2025.08.21
 
 **주최**:  멀티캠퍼스 KB IT's Your Life 6기
@@ -19,6 +52,8 @@ __Slow and steady wins the race🐢__<br>
   - [[최우수팀 상장] [KB] ITs Your Life 6기 최우수팀 15반 1팀.pdf](https://github.com/user-attachments/files/21985936/KB.ITs.Your.Life.6.15.1.pdf)
 <details>
 <summary><strong> 담당 역할</strong></summary>
+
+**기술 스택** : Spring Boot, MySQL, AWS EC2/S3/RDS, React, Tailwind, 
   
 - **백엔드**
   
@@ -35,7 +70,7 @@ __Slow and steady wins the race🐢__<br>
 
 **기술 스택**: Spring Legacy, Vue, MySQL, AWS EC2/S3, CI/CD
 
-### 2. 📈 IT's Okay To Lose 
+### 3. 📈 IT's Okay To Lose 
 **기간** : 2025.05 ~ 진행중
 
 **소속** : 멀티캠퍼스 KB IT's Your Life 6기 백엔드
@@ -51,7 +86,7 @@ __Slow and steady wins the race🐢__<br>
 
 ---
 
-### 3. 🔐 Secure OTA: Blockchain 기반 자동차 보안 시스템  
+### 4. 🔐 Secure OTA: Blockchain 기반 자동차 보안 시스템  
 **기간**: 2024.05 ~ 2024.11  
 **소속**: 영남대 네트워크 보안 연구실 (학부연구생)  
 <details>
@@ -65,7 +100,7 @@ __Slow and steady wins the race🐢__<br>
 
 ---
 
-### 4. 🍼 육아 정보 커뮤니티 플랫폼  
+### 5. 🍼 육아 정보 커뮤니티 플랫폼  
 **기간**: 2024.03.25 ~ 2024.08.07  
 **소속**: 멋쟁이사자처럼 12기  
 **역할**: 백엔드 개발  
@@ -80,7 +115,7 @@ __Slow and steady wins the race🐢__<br>
 
 ---
 
-### 5. 🛴 킥보드 사유화 방지 시스템  
+### 6. 🛴 킥보드 사유화 방지 시스템  
 **기간**: 2023.09.04 ~ 2024.03  
 **역할**: 프론트 + DB + 센서 통신  
 <details>
@@ -94,7 +129,7 @@ __Slow and steady wins the race🐢__<br>
 
 ---
 
-### 6. 🗣️ AI 음성인식 키오스크 (공모전 동상 수상 🥉)  
+### 7. 🗣️ AI 음성인식 키오스크 (공모전 동상 수상 🥉)  
 **기간**: 2023.02.06 ~ 2023.12.07  
 **주최**: 한국정보산업연합회 ICT 한이음 공모전  
 **역할**: 총괄 팀장 · 프론트엔드 + 시스템 연동  
@@ -109,7 +144,7 @@ __Slow and steady wins the race🐢__<br>
 
 ---
 
-### 7. 💝 후원 관리 시스템  
+### 8. 💝 후원 관리 시스템  
 **기간**: 2023.09.11 ~ 2023.12.06  
 **과목**: 데이터베이스 팀 프로젝트  
 **역할**: 백엔드 개발  
