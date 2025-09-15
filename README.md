@@ -11,7 +11,7 @@ __Slow and steady wins the race🐢__<br>
 ## 🛠️ Projects
 
 ### 1. 💍 WeddingFit (MZ 세대를 위한 결혼 준비 자금 특화 금융비서)  
-**기간**: 2025.03 ~ 2025.05  
+**기간**: 2025.08 ~ 2025.09
 **주최**: 멀티캠퍼스 KB IT's Your Life 6기  
 **역할**: 백엔드 총괄 팀장  
 
@@ -38,6 +38,7 @@ __Slow and steady wins the race🐢__<br>
 
 
 
+----
 
 
 
@@ -69,6 +70,8 @@ __Slow and steady wins the race🐢__<br>
 </details>
 
 **기술 스택**: Spring Legacy, Vue, MySQL, AWS EC2/S3, CI/CD
+
+----
 
 ### 3. 📈 IT's Okay To Lose 
 **기간** : 2025.05 ~ 진행중
