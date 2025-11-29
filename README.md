@@ -50,7 +50,7 @@ __Slow and steady wins the race🐢__<br>
 <details>
 <summary><strong> 담당 역할</strong></summary>
 
-**기술 스택** : Spring Boot, MySQL, AWS EC2/S3/RDS, React, Tailwind, 
+**기술 스택** : Spring Boot, MySQL, AWS EC2/S3/RDS, Vue.js, Tailwind, 
   
 - **백엔드**
   
