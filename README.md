@@ -32,7 +32,7 @@ __Slow and steady wins the race🐢__<br>
 
 </details>  
 
-
+**기술 스택** : Spring Boot, MySQL, AWS EC2/S3/RDS, React, Tailwind
 
 ----
 
@@ -50,8 +50,7 @@ __Slow and steady wins the race🐢__<br>
 <details>
 <summary><strong> 담당 역할</strong></summary>
 
-**기술 스택** : Spring Boot, MySQL, AWS EC2/S3/RDS, Vue.js, Tailwind, 
-  
+
 - **백엔드**
   
   - Spring Legacy 초기 세팅, MyBatis·MySQL 구성  
@@ -65,7 +64,7 @@ __Slow and steady wins the race🐢__<br>
   - AI 리포트 UI 구현  
 </details>
 
-**기술 스택**: Spring Legacy, Vue, MySQL, AWS EC2/S3, CI/CD
+**기술 스택**: Spring Legacy, MySQL, Redis, AWS EC2/S3, CI/CD, K6, Vue.js
 
 ----
 
