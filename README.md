@@ -2,10 +2,6 @@ __Slow and steady wins the race🐢__<br>
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=icegosimperson)](https://solved.ac/icegosimperson)✨
 
-**매일 조금씩 성장하는 백엔드 개발자**를 목표로 하고 있습니다. <br>
-사용자 불편을 해결하고, 시스템을 안정적으로 설계하는 데에 흥미를 느낍니다. <br>
-하나씩 직접 겪고 구현해보며, 눈앞의 오류보다 근본 원인을 찾는 걸 좋아합니다 🔍
-
 ---
 
 ## 🛠️ Projects
@@ -74,7 +70,7 @@ __Slow and steady wins the race🐢__<br>
 ----
 
 ### 3. 📈 IT's Okay To Lose 
-**기간** : 2025.05 ~ 진행중
+**기간** : 2025.05 ~ 2025.07
 
 **소속** : 멀티캠퍼스 KB IT's Your Life 6기 백엔드
 
